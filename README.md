@@ -1,3 +1,18 @@
+
+
+# Atari ST/STe for SoCkit
+
+This is a port to SoCkit from Mister port release of 20210224 ([commit](https://github.com/MiSTer-devel/AtariST_MiSTer/tree/13d78631f87202802149441d9781d407b74e46c8)).
+
+Please find rbf binary inside output_files folder.
+
+This core is working with MiSTer main and menu.rbf found in the [MiSTer_SoCkit](MiSTer_SoCkit) folder.
+
+Copy rbf (and possibly MiSTer and menu.rbf) to the root of your SD card.
+
+Following is original ReadMe from MiSTer.
+-------------------------------------------------------------------------------------------
+
 # Atari ST/STe for MiSTer (port of MiSTery)
 
 Thanks to Gyorgy Szombathelyi for MiSTery core
